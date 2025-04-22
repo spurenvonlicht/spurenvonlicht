@@ -9,5 +9,19 @@
         "name": "Jens Franke"
     },
     "items": [
+        {
+            "id": "https://spurenvonlicht.github.io/spurenvonlicht/hello-world-2.html",
+            "url": "https://spurenvonlicht.github.io/spurenvonlicht/hello-world-2.html",
+            "title": "Hello World",
+            "summary": "This is it",
+            "content_html": "<p>This is it</p>",
+            "author": {
+                "name": "Jens Franke"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-22T17:13:46+02:00",
+            "date_modified": "2025-04-22T17:13:46+02:00"
+        }
     ]
 }

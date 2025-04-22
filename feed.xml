@@ -3,10 +3,30 @@
     <title>spurenvonlicht</title>
     <link href="https://spurenvonlicht.github.io/spurenvonlicht/feed.xml" rel="self" />
     <link href="https://spurenvonlicht.github.io/spurenvonlicht" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-04-22T17:13:46+02:00</updated>
     <author>
         <name>Jens Franke</name>
     </author>
     <id>https://spurenvonlicht.github.io/spurenvonlicht</id>
 
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Jens Franke</name>
+        </author>
+        <link href="https://spurenvonlicht.github.io/spurenvonlicht/hello-world-2.html"/>
+        <id>https://spurenvonlicht.github.io/spurenvonlicht/hello-world-2.html</id>
+
+        <updated>2025-04-22T17:13:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This is it
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is it</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
